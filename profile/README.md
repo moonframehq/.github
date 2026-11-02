@@ -39,9 +39,9 @@ from inside the app with its **Send feedback** button, or make it by hand.
     </td>
   </tr>
   <tr>
-    <td width="96" valign="top"><a href="https://github.com/penso/msgvault-moonframe"><img src="msgvault.png" width="80" alt="msgvault's icon"></a></td>
+    <td width="96" valign="top"><a href="https://github.com/moonframehq/msgvault"><img src="msgvault.png" width="80" alt="msgvault's icon"></a></td>
     <td valign="top">
-      <b><a href="https://github.com/penso/msgvault-moonframe">msgvault</a></b><br>
+      <b><a href="https://github.com/moonframehq/msgvault">msgvault</a></b><br>
       A native reader for <a href="https://github.com/wesm/msgvault">msgvault</a> mail archives, its whole window laid out in Luau on Moonframe.
     </td>
   </tr>
