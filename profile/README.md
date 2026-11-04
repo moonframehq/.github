@@ -39,6 +39,13 @@ from inside the app with its **Send feedback** button, or make it by hand.
     </td>
   </tr>
   <tr>
+    <td width="96" valign="top"><a href="https://github.com/moonframehq/moonmap"><img src="moonmap.png" width="80" alt="Moonmap's icon"></a></td>
+    <td valign="top">
+      <b><a href="https://github.com/moonframehq/moonmap">Moonmap</a></b><br>
+      A desktop map app laid out like Apple Maps: switchable tile providers, place sheets with photos and details, directions, and 360° Look Around you can drag and walk through.
+    </td>
+  </tr>
+  <tr>
     <td width="96" valign="top"><a href="https://github.com/moonframehq/msgvault"><img src="msgvault.png" width="80" alt="msgvault's icon"></a></td>
     <td valign="top">
       <b><a href="https://github.com/moonframehq/msgvault">msgvault</a></b><br>
